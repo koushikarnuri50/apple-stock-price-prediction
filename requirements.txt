@@ -4,5 +4,5 @@ numpy
 plotly
 scikit-learn
 joblib
-tensorflow
+tensorflow==2.15.0
 statsmodels
